@@ -1,0 +1,2 @@
+# faq
+Atbox.io FAQ
