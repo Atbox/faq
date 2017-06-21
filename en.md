@@ -67,3 +67,35 @@ On your profile page, click on "Resume list" to see or download your resumes.
 On your profile page, click on "Resume list" to see or your resumes or change their templates.
 ### I changed my username once. How can I change it again? ###
 You can't do that twice but feel free to [contact us](https://atbox.io/pages/contact). We can help you.
+
+## 🎨 Portfolios ##
+### What is a portfolio? ###
+Portfolio is a visual collection of all your projects. Portfolio is an important section of your profile; Maybe the most important one. Your portfolio can be quietly impressive to people who are after your resume. A proper portfolio is even more important if you work is related to Art or I.T. Get started to [create and manage your projects on Atbox](https://atbox.io/project/new).
+### How can I create a project? ###
+Use the (+) icon on top of the page to [create a project](https://atbox.io/project/new). Add a title, description, attachments and other info.
+### Is my project public or is it private? ###
+If your profile is [private](https://atbox.io/settings), your projects would be visible to your followers only.
+### I'm not working in Art or I.T fields. Is it reasonable to have a portfolio? ###
+Of course. There are no limits. The only thing that matters is to display your projects.
+### What kind of files can I attach to a project? ###
+Pictures (jpg, png, gif, ...) and documents (pdf, doc, ...)
+
+## 🕵 I have security questions ##
+### Is my profile/resume public or is it private? ###
+You choose! You can make it [private](https://atbox.io/settings) or public.  
+Public profiles are visible to everyone.  
+On your private profile only your name, your picture and headline is public; Everything else is only visible to people you [allow](https://atbox.io/requests) them to follow you.
+### How safe is my data on Atbox? ###
+We wont let anyone abuse your data. On a public profile, your personal information (such as your email address) will never be accessible to any user unless you share it publicly. On a [private profile](https://atbox.io/settings) your profile information is only visible to people you [allow](https://atbox.io/requests) them to follow you. We promise you we wont expose your personal information to third-parties. In case of natural disasters such as earthquakes, floods, volcanos, and zombie apocalipse, we will try our best to keep your information safe.
+### How can I change my mail email address? ###
+Do it on the [Settings page](https://atbox.io/settings)
+### How can I change my password? ###
+Do it on the [Settings page](https://atbox.io/settings)
+### Why did you emailed me the plain password? that's not safe. ###
+That's a temporary password. Each Atbox account has a unique email address and we consider the owner of email address as the owner of that Atbox account (even if the account was created by someone else). If you don't choose a password while registering for atbox, we will send you a temporary password so you can login to Atbox and [choose a new password](https://atbox.io/settings).
+### Which companies have access to my private resume? ###
+When you apply for a job, managers of the company gain access to your resume so they can check out your information. Other companies don't access your exact private information.
+###How can I revoke access of a company to my private resume?###
+If your profile is private, whenever you apply for a job, managers of the company gain access to your resume. You can manage the permissions of all these companies on [Settings](https://atox.io/settings)
+### I just registered with Email. How can I login with Facebook, Twitter of Google? ###
+[Connect All your accounts](https://atbox.io/profile/edit/accounts) to Atbox so you can login with them anytime.
